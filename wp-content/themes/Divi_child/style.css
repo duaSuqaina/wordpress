@@ -1,0 +1,23 @@
+/*
+ Theme Name:   Divi_child
+ Template:     Divi
+ Version:      1.0.0
+*/
+
+.h4{
+    white-space: normal;
+}
+
+
+.et_pb_text_inner {
+        grid-template-columns: 100px 50px 100px;
+        grid-template-rows: 80px auto 80px; 
+        column-gap: 10px;
+        row-gap: 15px;
+      }
+
+.col3{
+    width: calc(100/3);
+    height: auto;
+    display: flex;
+}
