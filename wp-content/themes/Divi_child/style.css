@@ -8,7 +8,7 @@
     white-space: normal;
 }
 
-
+/* 
 .et_pb_text_inner {
         grid-template-columns: 100px 50px 100px;
         grid-template-rows: 80px auto 80px; 
@@ -20,4 +20,10 @@
     width: calc(100/3);
     height: auto;
     display: flex;
+} */
+
+.wrapper{
+    width: auto;
+    max-width: 1028px;
+    margin: auto;
 }
